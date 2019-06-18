@@ -10,18 +10,18 @@
 
 ### Day 2: June 17th, 2019
 
-**Today's Progress**:
+**Today's Progress**: Continued on freecodecamp.org with the Repsosive Web Design certificate.
 
-**Thoughts**:
+**Thoughts**: A slower day but went well nevertheless.
 
 **Link(s) to work**:
 
 
 ### Day 3: June 18th, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Finished two more section of the Responsive Web Design Course, Visual Design and Accessibility.
 
-**Thoughts** 
+**Thoughts** Went well today, lots learnt about animation and accessibility in general, looking forward to tomorrow.
 
 **Link(s) to work**
 
