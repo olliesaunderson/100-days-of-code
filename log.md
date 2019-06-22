@@ -25,3 +25,35 @@
 
 **Link(s) to work**
 
+### Day 4: June 19th, 2019 
+
+**Today's Progress**: Completed Responsive Web Design Principles and nearly finished CSS Flexbox sessions.
+
+**Thoughts:** Slow day but got enough done, bring on tomorrow...
+
+**Link to work:** 
+
+### Day 5: June 20th, 2019 
+
+**Today's Progress**: Finished all of the lessons on the repsonsive web design course, CSS Flexbox and CSS Grids.
+
+**Thoughts:** Happy that I completed all the sessions and looking forward to using my knowledge in the challenges :).
+
+**Link to work:** 
+
+### Day 6: June 21st, 2019 
+
+**Today's Progress**: Challenge 1 Complete 'Tribute Page'
+
+**Thoughts:** Bit tired of coding today but managed to get challenge 1 complete and foudn it quite enjoyable by the end!
+
+**Link to work:** 
+
+### Day 7: June 22nd, 2019 
+
+**Today's Progress**: Challenge 2 Complete 'Survey Form'
+
+**Thoughts:** A late session of coding but completed challenge 2 successfully, some errors but mainly because I forgot to take notes when elanring forms.
+
+**Link to work:** 
+
