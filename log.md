@@ -53,7 +53,16 @@
 
 **Today's Progress**: Challenge 2 Complete 'Survey Form'
 
-**Thoughts:** A late session of coding but completed challenge 2 successfully, some errors but mainly because I forgot to take notes when elanring forms.
+**Thoughts:** A late session of coding but completed challenge 2 successfully, some errors but mainly because I forgot to take notes when learning forms.
 
 **Link to work:** 
+
+### Day 8: June 23rd, 2019 
+
+**Today's Progress**: Challenge 5 Complete 'Product Landing Page'
+
+**Thoughts:** 
+
+**Link to work:** 
+
 
