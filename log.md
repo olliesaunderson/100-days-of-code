@@ -59,10 +59,17 @@
 
 ### Day 8: June 23rd, 2019 
 
-**Today's Progress**: Challenge 5 Complete 'Product Landing Page'
+**Today's Progress**: Challenge 3 Complete 'Product Landing Page'
 
-**Thoughts:** 
+**Thoughts:** Looked forward to completing this challenge, it went quite well but had to check a couple of bits of code.
+
+**Link to work:**
+
+### Day 9: June 24th, 2019 
+
+**Today's Progress**: Challenge 4 Complete 'Technical Documentation Page'
+
+**Thoughts:** Great day, very successful and onyl had to check one bit of code which it turns out I knew already. Very positive and only 1 more challenge to go on this course!
 
 **Link to work:** 
-
 
