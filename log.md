@@ -73,3 +73,21 @@
 
 **Link to work:** 
 
+### Day 10: June 25th, 2019 
+
+**Today's Progress**: Challenge 5 Complete 'Personal Portfolio Page'
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 11: June 26th, 2019 
+
+**Today's Progress**: Recap of HTML/CSS
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
