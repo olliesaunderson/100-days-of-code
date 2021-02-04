@@ -1,4 +1,7 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log 
+
+## PLEASE NOTE - This log is incomplete, please see a full log at https://twitter.com/OSaunderson99
+
 
 ### Day 1: June 16th, 2019 
 
@@ -6,15 +9,12 @@
 
 **Thoughts:** Overall went well, positive and looking forward to tomorrow... Need to make notes as it helps me to remember!
 
-**Link to work:** 
 
 ### Day 2: June 17th, 2019
 
 **Today's Progress**: Continued on freecodecamp.org with the Repsosive Web Design certificate.
 
 **Thoughts**: A slower day but went well nevertheless.
-
-**Link(s) to work**:
 
 
 ### Day 3: June 18th, 2019
@@ -23,7 +23,6 @@
 
 **Thoughts** Went well today, lots learnt about animation and accessibility in general, looking forward to tomorrow.
 
-**Link(s) to work**
 
 ### Day 4: June 19th, 2019 
 
@@ -31,7 +30,6 @@
 
 **Thoughts:** Slow day but got enough done, bring on tomorrow...
 
-**Link to work:** 
 
 ### Day 5: June 20th, 2019 
 
@@ -39,7 +37,6 @@
 
 **Thoughts:** Happy that I completed all the sessions and looking forward to using my knowledge in the challenges :).
 
-**Link to work:** 
 
 ### Day 6: June 21st, 2019 
 
@@ -47,7 +44,6 @@
 
 **Thoughts:** Bit tired of coding today but managed to get challenge 1 complete and foudn it quite enjoyable by the end!
 
-**Link to work:** 
 
 ### Day 7: June 22nd, 2019 
 
@@ -55,7 +51,6 @@
 
 **Thoughts:** A late session of coding but completed challenge 2 successfully, some errors but mainly because I forgot to take notes when learning forms.
 
-**Link to work:** 
 
 ### Day 8: June 23rd, 2019 
 
@@ -63,7 +58,6 @@
 
 **Thoughts:** Looked forward to completing this challenge, it went quite well but had to check a couple of bits of code.
 
-**Link to work:**
 
 ### Day 9: June 24th, 2019 
 
@@ -71,23 +65,22 @@
 
 **Thoughts:** Great day, very successful and onyl had to check one bit of code which it turns out I knew already. Very positive and only 1 more challenge to go on this course!
 
-**Link to work:** 
 
 ### Day 10: June 25th, 2019 
 
 **Today's Progress**: Challenge 5 Complete 'Personal Portfolio Page'
 
-**Thoughts:** 
+**Thoughts:** Great day! Excited to keep going...
 
-**Link to work:** 
 
 ### Day 11: June 26th, 2019 
 
 **Today's Progress**: Recap of HTML/CSS
 
-**Thoughts:** 
-
-**Link to work:** 
+**Thoughts:** Very useful day in terms of re-learning and iterating over existing knowledge.
 
 
+### Day 12: June 27th, 2019 
+
+**LOG CONTINUED AT https://twitter.com/OSaunderson99 **
 
